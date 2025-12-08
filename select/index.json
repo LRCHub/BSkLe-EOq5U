@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "TRAIN‐TRAIN",
+  "base_artist": "THE BLUE HEARTS",
+  "createdAt": "2025-12-08T06:35:37.509136Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Train Train",
+      "artist": "Billy Bragg",
+      "has_synced": true,
+      "path": "select/01_Train_Train_Billy_Bragg.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bus Bus Train Train",
+      "artist": "Frankie Cosmos",
+      "has_synced": true,
+      "path": "select/02_Bus_Bus_Train_Train_Frankie_Cosmos.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Train Train",
+      "artist": "Warrant",
+      "has_synced": true,
+      "path": "select/03_Train_Train_Warrant.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Train, Train",
+      "artist": "Blackfoot",
+      "has_synced": true,
+      "path": "select/04_Train,_Train_Blackfoot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Train, Train",
+      "artist": "Blackfoot",
+      "has_synced": true,
+      "path": "select/05_Train,_Train_Blackfoot.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Ways / Train Train",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/06_New_Ways___Train_Train_Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Ways Train Train",
+      "artist": "Warren DeMartini",
+      "has_synced": false,
+      "path": "select/07_New_Ways_Train_Train_Warren_DeMartini.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Train, Train",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/08_Train,_Train_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Train Train",
+      "artist": "Blackfoot",
+      "has_synced": true,
+      "path": "select/09_Train_Train_Blackfoot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Train, Train",
+      "artist": "Blackfoot",
+      "has_synced": true,
+      "path": "select/10_Train,_Train_Blackfoot.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Train Train",
+      "artist": "Blackfoot",
+      "has_synced": true,
+      "path": "select/11_Train_Train_Blackfoot.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Train Train",
+      "artist": "Blackfoot",
+      "has_synced": false,
+      "path": "select/12_Train_Train_Blackfoot.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TRAIN-TRAIN",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": false,
+      "path": "select/pl_01_TRAIN-TRAIN_THE_BLUE_HEARTS.txt"
+    }
+  ]
+}
